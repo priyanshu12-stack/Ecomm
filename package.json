@@ -1,6 +1,6 @@
 {
   "name": "react-final-project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "```\r $ cd our-website\r $ cd backend\r $ npm i\r $ npm start\r ```",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/shanibider/React-final-project.git"
   },
-  "author": "",
+  "author": "Priyanshu Raj",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shanibider/React-final-project/issues"
